@@ -7,5 +7,5 @@ A Rather Emotionally Supportive System
 - Android apk that can be installed on anything running Andorid 9.0+
 - Main server built on FastAPI with Uvicorn and Gunicorn to handle concurrency.
 - Sample output is given in the audio file, full video is too large to upload.
-  
+- Primarily meant to detect suicidal tendencies displayed through speech or facial expressions over a lengthy period of time.
 - Built in under 24 hours during a Hackathon.
